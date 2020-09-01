@@ -6,6 +6,7 @@ This is a project to reproduct [FuseAD paper](https://arxiv.org/abs/1912.08785).
  - [Yahoo Webscope S5 - A Labeled Anomaly Detection Dataset, version 1.0(16M)](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 
 ## Reference
+ - [ARIMA Auto Parameter Selection BLOG(english)](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3)
  - [ARIMA Guide Blog(english)](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
  - [ARIMA Guide Blog(korean)]()
  
