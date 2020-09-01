@@ -1,5 +1,5 @@
-# fuseAD
-This is a project to reproduct fuseAD paper.
+# FuseAD
+This is a project to reproduct [FuseAD paper](https://arxiv.org/abs/1912.08785).
 
 
 ## Dataset
